@@ -264,8 +264,9 @@ By completing this project, I learned:
 
 ## 👨‍💻 Author
 
-**Gunjan Shah**
-Senior Cloud Data Engineer
+**Gunjan Shah**<br>
+Senior Cloud Data Engineer<br>
+Python, AWS, Machine Learning & AI Mentor
 
 This project is part of my learning journey in Machine Learning, Deep Learning, Computer Vision, and AI-based sustainability solutions.
 
